@@ -16,6 +16,10 @@ The Streamlit web application allows users to upload their own content and style
 
 ## Screenshots of your application in use
 
+![Presentation1](https://github.com/arunjames003/Neural_Style_Transfer_using_CNNs/assets/155214383/09c17081-22c8-4d13-8982-e594d64a13ae)
+
+
+
 
 
 
