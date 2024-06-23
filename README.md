@@ -10,16 +10,26 @@ Neural style transfer is a technique that uses convolutional neural networks (CN
 
 The model used for this project is the Arbitrary Image Stylization model from TensorFlow Hub, which can be found at [this link](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2). This model allows for the combination of content and style images to produce a stylized output image.
 
+## TensorFlow Hub Model Link
+https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
+
 ## Streamlit Web Application
 
 The Streamlit web application allows users to upload their own content and style images, and then performs style transfer using the loaded model. The application displays the input images and the resulting stylized image.
 
-## Screenshots of your application in use
+## Screenshots of application in use
 
 ![Presentation1](https://github.com/arunjames003/Neural_Style_Transfer_using_CNNs/assets/155214383/09c17081-22c8-4d13-8982-e594d64a13ae)
 
 
+## Built With
+- Streamlit - The web framework used
+- TensorFlow Hub - The repository of trained machine learning models
 
+## Contact
+Created by [@arunjames003] - feel free to contact me!
 
-
+## Acknowledgments
+- The TensorFlow team for providing the pre-trained model
+- Streamlit for making it easy to create web applications
 
