@@ -10,8 +10,6 @@ Neural style transfer is a technique that uses convolutional neural networks (CN
 
 The model used for this project is the Arbitrary Image Stylization model from TensorFlow Hub, which can be found at [this link](https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2). This model allows for the combination of content and style images to produce a stylized output image.
 
-## TensorFlow Hub Model Link
-https://tfhub.dev/google/magenta/arbitrary-image-stylization-v1-256/2
 
 ## Streamlit Web Application
 
